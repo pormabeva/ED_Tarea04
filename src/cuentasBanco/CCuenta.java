@@ -16,13 +16,13 @@ public class CCuenta {
 	private double tipoInterés;
 
 	/**
-	 * Método que crea un objeto CCuenta vacío
+	 * Método constructor que crea un objeto CCuenta vacío
 	 */
 	public CCuenta() {
 	}
 
 	/**
-	 * Método que permite crear un objeto con todos sus atributos
+	 * Método constructor que permite crear un objeto con todos sus atributos
 	 * 
 	 * @param nom  variable para recoger el nombre del titular de la cuenta
 	 * @param cue  variable con el número del código de la cuenta del cliente (CCC)
